@@ -14,11 +14,14 @@ export const styles = StyleSheet.create({
     fontSize: 60,
     color: 'white',
     textAlign: 'right',
+    marginBottom: 7,
+    paddingHorizontal: 10
   },
   smallResult: {
     fontSize: 30,
     color: 'rgba(255,255,255,0.5)',
     textAlign: 'right',
+    paddingHorizontal: 12
   },
   btnRow: {
     justifyContent: 'center',
